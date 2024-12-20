@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>p.d2284422-be44-11ef-8a6e-c20ffb1e7cce.jpg</filename>
+	<path>/Users/henryle/Desktop/csci4511w/final-project/Sign-Language-Detector/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/p.d2284422-be44-11ef-8a6e-c20ffb1e7cce.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>216</ymin>
+			<xmax>1092</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>
